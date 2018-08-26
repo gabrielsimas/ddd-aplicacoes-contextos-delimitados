@@ -9,6 +9,7 @@ namespace Cadastro.Core.Modelo.Dominio.Organizadores
         public OrganizadorId Id { get; private set; }
         public string Nome { get; set; }        
         public NomeCompleto Responsavel { get; private set; }
+        public bool Ativo { get; private set; }
 
         public Organizador(OrganizadorId id)
         {
