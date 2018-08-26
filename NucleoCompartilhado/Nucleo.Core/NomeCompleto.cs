@@ -1,4 +1,4 @@
-﻿namespace Cadastro.Core.Modelo.Dominio.Organizadores
+﻿namespace NucleoCompartilhado.Nucleo.Core
 {
     /// <summary>
     /// Objeto de Valor Nome
