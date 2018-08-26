@@ -11,8 +11,8 @@ namespace Cadastro.Core.Modelo.Dominio.Organizadores
             Nome = nome;
         }
 
-        public Guid Id { get; set; }
-        public string Nome { get; set; }
+        public Guid Id { get; private set; }
+        public string Nome { get; set; }        
 
         public override bool Equals(object obj)
         {
