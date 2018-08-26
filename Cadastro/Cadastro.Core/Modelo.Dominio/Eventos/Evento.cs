@@ -1,6 +1,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using Cadastro.Core.Modelo.Dominio.Organizadores;
+using NucleoCompartilhado.Nucleo.Core;
 
 namespace Cadastro.Core.Modelo.Dominio.Eventos
 {

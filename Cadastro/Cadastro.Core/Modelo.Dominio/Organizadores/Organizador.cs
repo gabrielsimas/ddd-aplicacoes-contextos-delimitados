@@ -1,5 +1,6 @@
 using System;
 using System.Collections.Generic;
+using NucleoCompartilhado.Nucleo.Core;
 
 namespace Cadastro.Core.Modelo.Dominio.Organizadores
 {

@@ -1,5 +1,6 @@
 using Cadastro.Core.Modelo.Dominio.Organizadores;
 using Microsoft.VisualStudio.TestTools.UnitTesting;
+using NucleoCompartilhado.Nucleo.Core;
 
 namespace Cadastro.Testes
 {
